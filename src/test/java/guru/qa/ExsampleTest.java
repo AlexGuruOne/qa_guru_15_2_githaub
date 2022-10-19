@@ -7,11 +7,11 @@ public class ExsampleTest {
 
     @Test
     void exsampletest0() {
-        Assertions.assertTrue(7 >= 5);
+        Assertions.assertTrue(7 >= 10);
     }
 
     @Test
     void exsampletest1() {
-        Assertions.assertTrue(7 >= 5);
+        Assertions.assertTrue(7 >= 10);
     }
 }
