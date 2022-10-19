@@ -8,12 +8,12 @@ public class ExsampleTest {
     @Test
     void exsampletest0() {
 
-        Assertions.assertTrue(2 >= 10);
+        Assertions.assertTrue(2 >= 8);
     }
 
     @Test
     void exsampletest1() {
 
-        Assertions.assertTrue(3 >= 10);
+        Assertions.assertTrue(3 >= 8);
     }
 }
