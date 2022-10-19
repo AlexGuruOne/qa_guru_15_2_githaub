@@ -6,7 +6,14 @@ import org.junit.jupiter.api.Test;
 public class ExsampleTest {
 
     @Test
-    void exsampletest() {
-        Assertions.assertTrue(2 > 1);
+    void exsampletest0() {
+
+        Assertions.assertTrue(2 >= 8);
+    }
+
+    @Test
+    void exsampletest1() {
+
+        Assertions.assertTrue(3 >= 8);
     }
 }
