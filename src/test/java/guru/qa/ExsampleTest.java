@@ -14,6 +14,6 @@ public class ExsampleTest {
     @Test
     void exsampletest1() {
 
-        Assertions.assertTrue(3 >= 20);
+        Assertions.assertTrue(3 >= 10);
     }
 }
